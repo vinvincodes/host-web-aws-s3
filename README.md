@@ -1,3 +1,5 @@
+# Host a website on Amazon S3
+
 ### Project goal:
 
 Host static website using Amazon S3 and learn how AWS stores files (objects - like files, imgs, etc) and delivers them publicly through a web endpoint.
