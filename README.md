@@ -4,6 +4,10 @@
 
 Host static website using Amazon S3 and learn how AWS stores files (objects - like files, imgs, etc) and delivers them publicly through a web endpoint.
 
+### Diagram of Host a website
+
+![host-webs-s3-diagram](imgs/host-webs-s3-diagram.jpg)
+
 ### Tools and Concepts
 
 I used **Amazon S3** to host a static website. I learned how to:
